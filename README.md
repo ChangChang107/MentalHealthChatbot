@@ -1,4 +1,4 @@
-# Mental Healthy Chatbot
+# Mental Health Chatbot
 
 ## Introduction
 - Use PhoGPT-4B-Chat 
